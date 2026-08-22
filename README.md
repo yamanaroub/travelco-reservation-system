@@ -24,7 +24,15 @@ Travelco is a Flutter graduation project for searching and booking bus trips and
 
 1. Install Flutter.
 2. Clone the repository.
-3. Install the dependencies:
+3. Run `flutter pub get`.
+4. Run `flutter run`.
 
-```bash
-flutter pub get
+## Important Notes
+
+- Firebase is configured for Android, Web, and Windows.
+- Payment screens are a prototype and do not process real payments.
+- Firebase Security Rules should be configured before production use.
+
+## Project Type
+
+Graduation project demonstrating a bus and hotel reservation system.
