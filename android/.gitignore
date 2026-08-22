@@ -1,8 +1,6 @@
-gradle-wrapper.jar
+
 /.gradle
 /captures/
-/gradlew
-/gradlew.bat
 /local.properties
 GeneratedPluginRegistrant.java
 .cxx/
@@ -12,3 +10,15 @@ GeneratedPluginRegistrant.java
 key.properties
 **/*.keystore
 **/*.jks
+
+/travelco_doctor_updates_v2_lib/
+/travelco_fixed_lib/
+/travelco_doctor_updates_v2_lib.zip
+
+.dart_tool/
+.idea/
+build/
+**/.gradle/
+**/.kotlin/
+**/flutter/ephemeral/
+*.iml
