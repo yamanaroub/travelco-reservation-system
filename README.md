@@ -1,17 +1,30 @@
-# travilco1
+# Travelco Reservation System
 
-A new Flutter project.
+Travelco is a Flutter graduation project for searching and booking bus trips and hotels.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- User registration and login with Firebase Authentication
+- Search for available bus trips
+- Select seats and review booking details
+- Bus ticket generation
+- Search and book hotels
+- View current bookings
+- Firebase Cloud Firestore integration
+- Responsive interface for Android and Web
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Firebase Authentication
+- Cloud Firestore
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Running the Project
+
+1. Install Flutter.
+2. Clone the repository.
+3. Install the dependencies:
+
+```bash
+flutter pub get
